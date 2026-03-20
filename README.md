@@ -25,13 +25,13 @@
 ```python
 class RiyaRojesara:
     name            = "Riya Rojesara"
-    role            = "AI/ML Engineer & Agentic Systems Builder"
+    role            = "AI/ML Engineer"
     location        = "Ahmedabad, Gujarat 🇮🇳"
 
     specializations = [
         "🔗  LangChain & LangGraph — Multi-Agent Orchestration",
         "📄  RAG Systems — Retrieval-Augmented Generation",
-        "👁️   Computer Vision — OpenCV, YOLO, Detection Pipelines",
+        "👁️   Computer Vision — OpenCV, Detection Pipelines",
         "🧠  NLP & Transformers — HuggingFace, BERT, Fine-Tuning",
         "🤖  Agentic AI — Tool-Calling, Memory, Self-Correction",
     ]
