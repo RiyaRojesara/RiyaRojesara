@@ -170,9 +170,9 @@ class RiyaRojesara:
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/◈_Portfolio-Visit_Site-7850ff?style=for-the-badge&labelColor=0a0a1a)](YOUR_PORTFOLIO_URL)
-[![LinkedIn](https://img.shields.io/badge/◈_LinkedIn-Connect-00c8b4?style=for-the-badge&labelColor=0a0a1a)](YOUR_LINKEDIN_URL)
-[![Email](https://img.shields.io/badge/◈_Email-Ping_Me-ff50a0?style=for-the-badge&labelColor=0a0a1a)](mailto:YOUR_EMAIL)
+[![Portfolio](https://img.shields.io/badge/◈_Portfolio-Visit_Site-7850ff?style=for-the-badge&labelColor=0a0a1a)](https://riya-portfolio-lovat.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/◈_LinkedIn-Connect-00c8b4?style=for-the-badge&labelColor=0a0a1a)](https://www.linkedin.com/in/riya-rojesara-83383a304/)
+[![Email](https://img.shields.io/badge/◈_Email-Ping_Me-ff50a0?style=for-the-badge&labelColor=0a0a1a)](mailto:riyarojesara008@gmail.com)
 [![GitHub](https://img.shields.io/badge/◈_GitHub-Follow-A080FF?style=for-the-badge&labelColor=0a0a1a&logo=github)](https://github.com/RiyaRojesara)
 
 </div>
